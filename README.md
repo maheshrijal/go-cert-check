@@ -1,2 +1,2 @@
 # go-cert-check
-A go program to cehck ssl certificate of a domain
+A go program to check ssl certificate expiry date of a domain
